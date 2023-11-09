@@ -1,11 +1,11 @@
-*for unit test*
+For unit test
 - npm run test
+
 ![Alt text](image.png)
 
 
 
-*Api Test by Thunder client*
-
+For Api Test by Thunder client
 Open Thunder Client
 
 1. GET: To retrieve a list of all products.
